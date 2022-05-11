@@ -180,8 +180,8 @@ When a developer wants to learn something new, they'll most likely turn to docum
 
 ✅ Do some research: Now that you know the basics of a web developer's environment, compare and contrast it with a web designer's environment.
 
-My Answer:
-(To be continued)
+My Answer: To be continued
+
 ---
 
 ## 🚀 Challenge
