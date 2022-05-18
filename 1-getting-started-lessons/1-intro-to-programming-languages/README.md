@@ -180,7 +180,7 @@ When a developer wants to learn something new, they'll most likely turn to docum
 
 ✅ Do some research: Now that you know the basics of a web developer's environment, compare and contrast it with a web designer's environment.
 
-My Answer: To be continued
+My Answer: A web developer's environment will include multiple programming language IDE's to develop the software. A web designer's environment will be similar to a graphic designer. Less code is involved for a web designer. Web designers will likely use Adobe products, Figma, and other graphic designer programs. Web developers will use more programming languages and IDE.
 
 ---
 
@@ -189,8 +189,9 @@ My Answer: To be continued
 Compare some programming languages. What are some of the unique traits of JavaScript vs. Java? How about COBOL vs. Go?
 
 My Answer:
-(To be continued)
+Javascript is a scripting language as opposed to Java. Java is a programming language which means it needs to be compiled before being interpreted. Javascript needs to be interpreted. Java is used for cloud computing and server-side programming. Even though with the release of Node.JS, java script is mainly used for client-side programming. The syntax for both languages are similar. 
 
+Both GO lang and COBOL are programming language. Golang is a programming language, created by Google developers and others in an opensource project. COBOL is primarily used in business, finance, and administrative systems for companie and governments. COBOL has a long rich history since it's creation in 1959. Go lang is expressive, concise, clean and efficient. Its concurrency mechanisms make it easy to write programs the get the most out of multicore and networked machines, while its novel type-system enables flexible and modular program constructions. Go lang compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, comiled language that feels like a dynamically typed, interpreted language. COBOL is mainly used by federal government agencies. 435 of banking systems and 95% of ATM swipes utilize COBOL.
 ## Post-Lecture Quiz
 [Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/2)
 
