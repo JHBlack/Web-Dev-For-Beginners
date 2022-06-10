@@ -12,4 +12,4 @@ Your first task would be to identify this site, detail the ways in which you thi
 |          | missing <10% of what is required | missing 20% of what is required | missing 50% of what is required |
 
 ----
-Student Report: includes paragraphs on how inaccessible the site is, the Lighthouse report captured in pdf, a list of ten points to improve, with details on how to improve it
+Student Report: For this project I analyzed the accessibility of https://www.washington.edu/accesscomputing/AU/before.html. I used lighthouse to measure the website's accessibility. It received an accessibilty score of 57 indicating that it doesn't meet satisfactory requirements for website visitors with disabilities. I would add alt attribute to the images. The form elements on the right do not have associated labels which can be fixed by adding those. The HTML document does not contain the Lang tag and the ARIA is unable to read the webpage in the right language.
