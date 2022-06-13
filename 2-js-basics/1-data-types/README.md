@@ -171,7 +171,9 @@ let myString2 = "World";
 
 You can achieve your formatting goals with either method, but template literals will respect any spaces and line breaks.
 
-✅ When would you use a template literal vs. a plain string?
+✅ When would you use a template literal vs. a plain string? 
+
+Answer: A developer would use a template literal when a function or a variable has to be updated. Plain string can be used if a variable doesn't need to be updated and for simple functions.
 
 ### Booleans
 
